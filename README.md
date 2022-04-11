@@ -5,6 +5,7 @@
 
 ### Project Title
 Post your Work on GitHub
+This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
 ### Description
 This project focuses on Git Commands Documentation of previous project bikeshare data from three major U.S. cities - Chicago, Washington, and New York City.
