@@ -57,7 +57,7 @@ def check_data_entry(prompt, valid_entries):
             else:
                 print("Sorry, I didn't catch that. Try again.\n")
     except:
-        print("Seems like there is an issue with your input")
+        print("Seems like there is an issue with your input. Please try again")
 
 
 def get_filters():
@@ -252,10 +252,6 @@ def main():
         restart = str(input('\nWould you like to restart? Enter yes or no: \n')).lower()
         if restart != 'yes':
             break
-
-
-
-
 
 
 if __name__ == "__main__":
