@@ -8,12 +8,15 @@ Post your Work on GitHub
 This repository contains projects did for Udacity Programming For Data Science Using Python Nanodegree.
 
 ### Description
-This project focuses on Git Commands Documentation of previous project bikeshare data from three major U.S. cities - Chicago, Washington, and New York City.
+This project focuses on Git Commands Documentation of previous project bikeshare data from three major U.S. cities - Chicago, Washington, and New York City. In this project, Python is used to explore data related to bike share systems for three major cities. The source code takes in raw input from the user to create an interactive experience. According to the input the code will import the data and will provide information by computing descriptive statistics.
 
 ### Files used
-chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
-new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
-washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity.
+BikeShareData.py
 
 ### Credits
 Sole author for this program, Udacity's Data Analyst Nanodegree program, their instructors & other Reference docs
+
+### Softwares needed
+Python 3, NumPy, and Pandas installed using Anaconda
+A text editor, like VS Code or Atom.
+A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
