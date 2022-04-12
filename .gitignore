@@ -1,1 +1,4 @@
-.github/**
+.github
+Data
+data.gitignore
+.gitignore
